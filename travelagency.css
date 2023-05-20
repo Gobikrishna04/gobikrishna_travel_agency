@@ -1,0 +1,148 @@
+nav{
+	width: 100%;
+	height: 150px;
+	background-color: #fff;
+}
+
+ul{
+	margin-right: 40px;
+}
+
+ul li{
+	list-style: none;
+	display: inline-block;
+	float: right;
+	line-height: 150px;
+}
+
+ul li a{
+	text-decoration: none;
+	font-size: 25px;
+	font-family: sans-serif;
+	color: grey;
+	padding: 30px;
+}
+
+ul li a:hover {
+	color: black;
+}
+
+.mydiv {
+    position:absolute;
+    left:10%;
+    right:10%;
+    background-color: #CAEBF2;  
+}
+
+.heading{
+	font-size: 100px;
+	color: red;
+	font-family: Bebas Neue;
+	text-align: center;
+}
+
+.subheading{
+	font-size: 30px;
+	color: blue;
+	font-family: sans-serif;
+}
+.text{
+	font-size: 25px;
+	text-align: center;
+	font-family: serif;
+	letter-spacing: 1px;
+}
+
+.center{
+	float: right;
+	right: 7%;
+	position: relative;
+}
+
+.imagecenter{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 300px;
+}
+
+.line{
+	width: 70%;
+	background-color: #84A4Fc;
+	height: 3px;
+}
+
+.container {
+  position: relative;
+}
+
+
+.text-block {
+  position: absolute;
+  top: 20%;
+  left: 8%;
+  color: black;
+  font-size: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.table{
+	margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 500px;
+    text-align: center;
+    font-size: 40px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th{
+	font-size: 60px;
+	font-family: Bebas Neue;
+	color: brown;
+}
+
+td{
+	color: green;
+	font-family: oregon;
+}
+
+.packagepoint{
+	font-size: 25px;
+}
+
+.buttondesign{
+	background-color: red;
+	color: white;
+	margin-left: 68%;
+	height: 50px;
+	width: 150px;
+	font-size: 20px;
+	cursor: pointer;
+	
+}
+
+.about{
+	font-size: 100px;
+	color: red;
+	font-family: Bebas Neue;
+	text-align: center;
+}
+
+.abouttext{
+	font-size: 25px;
+	font-family: calibri;
+	letter-spacing: 0.5px;
+}
+
+.abouthr{
+	width: 30%;
+	height: 3px;
+	background-color: red;
+}
